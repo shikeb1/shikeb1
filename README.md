@@ -95,7 +95,7 @@ Django Developer → Machine Learning → MLOps → DevOps → AI Engineer 🚀
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shikeb-malik-43a1723a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app •
+<a href="https://linkedin.com/in/Shikeb Malik">LinkedIn</a>
 <a href="https://github.com/shikeb1">GitHub</a>
 </p>
 
