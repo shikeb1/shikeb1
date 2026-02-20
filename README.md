@@ -15,7 +15,7 @@
 - ⚙️ Currently learning MLOps & DevOps
 - 🚀 Goal: Production Ready AI Engineer
 - 💬 Ask me about Python, Django, ML, APIs
-- 📫 Email: your_email_here
+- 📫 Email:shikebshakib@gmail.com
 
 ---
 
