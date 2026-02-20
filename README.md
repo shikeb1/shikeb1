@@ -47,7 +47,7 @@ Django Developer → Machine Learning → MLOps → DevOps → AI Engineer 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shikeb1&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Django Developer → Machine Learning → MLOps → DevOps → AI Engineer 🚀
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shikeb1&theme=tokyonight" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Django Developer → Machine Learning → MLOps → DevOps → AI Engineer 🚀
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=shikeb1&color=blue" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Django Developer → Machine Learning → MLOps → DevOps → AI Engineer 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shikeb1/shikeb1/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -95,8 +95,8 @@ Django Developer → Machine Learning → MLOps → DevOps → AI Engineer 🚀
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<a href="https://www.linkedin.com/in/shikeb-malik-43a1723a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app •
+<a href="https://github.com/shikeb1">GitHub</a>
 </p>
 
 ---
